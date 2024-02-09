@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Daniil",
+  "license": "MIT"
+}
