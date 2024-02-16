@@ -4,7 +4,8 @@
   "description": "Test Node",
   "main": "main.js",
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint .",
+    "start": ""
   },
   "author": "Daniil",
   "license": "MIT"
