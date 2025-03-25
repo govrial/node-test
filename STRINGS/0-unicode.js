@@ -13,3 +13,5 @@ console.log(
     '🙁'.codePointAt(0),
     '🙁'.length,
 );
+
+console.log('abracadabra')
