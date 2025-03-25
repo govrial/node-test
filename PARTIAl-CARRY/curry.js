@@ -12,3 +12,4 @@ const sum = (a, c, d, f, g) => a+c+d+f+g;
 const f = curry(sum)
 const res = f(1, 2, 3, 4)(1);
 console.log(res)
+console.log(res)
